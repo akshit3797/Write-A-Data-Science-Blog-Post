@@ -45,4 +45,4 @@ The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Kaggle and Navaneesh Kumar [link] (https://www.kaggle.com/nowke9) for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/nowke9/ipldata).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Kaggle and Navaneesh Kumar [here](https://www.kaggle.com/nowke9) for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/nowke9/ipldata).  Otherwise, feel free to use the code here as you would like! 
